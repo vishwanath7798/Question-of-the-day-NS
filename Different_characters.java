@@ -33,5 +33,6 @@ public class Different_characters{
                 count++;
         }
         System.out.println(count);
+        sc.close();
     }
 }
