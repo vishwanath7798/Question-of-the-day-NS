@@ -30,7 +30,7 @@
 
 // Explanation
 // We can rearrange the array as [ 1, 8, 5, 4, 7, 2, 6, 6, 6], In this array, subarray [1, 8, 5, 4, 7, 2] is beautiful and
-// Hence, the maximum length of beautiful subarray is 6.
+// Hence, the maximum length of beautiful subarray is 6...
 import java.util.*;
 class Beauty_of_the_array {
     public static void main (String[] args) {
