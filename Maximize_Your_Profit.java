@@ -56,5 +56,6 @@ public class Maximize_Your_Profit {
         }
         int maxProfit = findMaxProfit(prices);
         System.out.println(maxProfit);
+        scanner.close();
     }
 }
